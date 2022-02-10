@@ -1,0 +1,68 @@
+Abilene Christian
+Alabama
+App State
+Arkansas
+Baylor
+BYU
+UC-Santa Barbara
+Clemson
+Cleveland State
+Colgate
+Colorado
+Connecticut
+Creighton
+Drake
+Drexel
+Eastern Washington
+Florida State
+Florida
+Georgetown
+Georgia Tech
+Gonzaga
+Grand Canyon
+Hartford
+Houston
+Illinois
+Iona
+Iowa
+Kansas
+Liberty
+LSU
+Loyola Chicago
+Maryland
+Michigan State
+Michigan
+Missouri
+Morehead State
+Mount St. Mary's
+Norfolk State
+North Carolina-Greensboro
+North Carolina
+North Texas
+Ohio State
+Ohio
+Oklahoma State
+Oklahoma
+Oral Roberts
+Oregon State
+Oregon
+Purdue
+Rutgers
+San Diego State
+Southern California
+St. Bonaventure
+Syracuse
+Tennessee
+Texas Southern
+Texas Tech
+Texas
+UCLA
+Utah State
+Villanova
+Virginia Commonwealth
+Virginia Tech
+Virginia
+West Virginia
+Wichita State
+Winthrop
+Wisconsin
