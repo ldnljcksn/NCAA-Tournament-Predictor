@@ -99,11 +99,11 @@ def main():
             choice_is_valid = True
 
             # predict_file = input('Enter name of file to predict: ')
-            predict_file = 'predict/v3/2021predictChamp.txt'
+            predict_file = 'predict/2021predictChamp.txt'
             feature_matrix, output_matrix, num_examples = read_file(predict_file)
 
             # names_file = input('Enter name of file with team names: ')
-            names_file = 'predict/v3/champteams.txt'
+            names_file = 'predict/champteams.txt'
             team_names = read_teams(names_file)
 
             predictions = []
@@ -127,7 +127,7 @@ def main():
                 normalized.append(norm_val)
 
             for counter, each_prediction in enumerate(normalized):
-                print(team_names[counter] + ': ', round(each_prediction, 2))
+                print(team_names[counter] + ': ', round(each_prediction, 3))
 
         elif predict_or_test == '2':
             choice_is_valid = True
