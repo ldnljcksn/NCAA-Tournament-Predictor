@@ -9,7 +9,6 @@ Connecticut
 Creighton
 Duke
 Gonzaga
-Houston
 Illinois
 Iowa
 Kansas
@@ -25,8 +24,9 @@ Saint Mary's (CA)
 Seton Hall
 South Dakota State
 Tennessee
-Texas
 Texas Tech
+UAB
 UCLA
 Villanova
+Virginia Tech
 Wisconsin
