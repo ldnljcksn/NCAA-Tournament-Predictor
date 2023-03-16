@@ -78,8 +78,8 @@ def read_teams(file_name):
 def main():
     # Enter training file name and read file
     # training_file = input('Please enter the name of the training file: ')
-    training_file = 'train/r1.txt'
-    # training_file = 'train/r2.txt'
+    # training_file = 'train/r1.txt'
+    training_file = 'train/r2.txt'
     # training_file = 'train/s16.txt'
     # training_file = 'train/e8.txt'
     # training_file = 'train/f4.txt'
@@ -104,8 +104,8 @@ def main():
             choice_is_valid = True
 
             # predict_file = input('Enter name of file to predict: ')
-            predict_file = 'predict/2022predictR1.txt'
-            # predict_file = 'predict/2022predictR2.txt'
+            # predict_file = 'predict/2022predictR1.txt'
+            predict_file = 'predict/2022predictR2.txt'
             # predict_file = 'predict/2022predictS16.txt'
             # predict_file = 'predict/2022predictE8.txt'
             # predict_file = 'predict/2022predictF4.txt'
@@ -113,8 +113,8 @@ def main():
             feature_matrix, output_matrix, num_examples = read_file(predict_file)
 
             # names_file = input('Enter name of file with team names: ')
-            names_file = 'predict/r1teams.txt'
-            # names_file = 'predict/r2teams.txt'
+            # names_file = 'predict/r1teams.txt'
+            names_file = 'predict/r2teams.txt'
             # names_file = 'predict/s16teams.txt'
             # names_file = 'predict/e8teams.txt'
             # names_file = 'predict/f4teams.txt'
